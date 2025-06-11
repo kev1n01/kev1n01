@@ -26,9 +26,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kev1n01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kev1n01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=kev1n01&theme=onedark&no-frame=false&no-bg=true&margin-w=4" height="250" alt="trophies graph"  />
+  <img src="https://github-stats-pro.vercel.app/api?username=kev1n01&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
+  <img src="https://github-stats-pro.vercel.app/api/top-langs/?username=kev1n01&layout=compact&langs_count=8&hide=jupyter%20notebook,smalltalk,cuda,dockerfile,tsql,makefile&theme=dark" alt="My Lang stats" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=kev1n01&theme=onedark&no-frame=false&no-bg=true&margin-w=4" height="250" alt="trophies graph"  /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kev1n01&custom_title=Prabor%27s%20Contribution&theme=react&bg_color=151515&point=ffffff&radius=10" alt="My GitHub stats" />
 </div>
 
 ###
